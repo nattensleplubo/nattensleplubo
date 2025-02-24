@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I do freelance stuff sometimes when I'm not too busy at school. Check out [Arabesque](https://github.com/nattensleplubo/arabesque)</p>
+<p align="left">I do freelance stuff sometimes when I'm not too busy at school. Check out https://github.com/nattensleplubo/arabesque</p>
 
 ###
 
