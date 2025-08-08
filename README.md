@@ -1,8 +1,8 @@
-<p align="center">
+<p>
   <img src="https://i.imgur.com/47aB4zK.gif/?raw=true" />
 </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi :•)</h1>
 
 ###
 
