@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student at 42 Paris studying Cybersecurity as well as backend and devops engineering. Also interested in low level languages.</p>
+<p align="left">Student at 42 Paris studying backend and devops engineering. Also interested in low level languages.</p>
 
 ###
 
